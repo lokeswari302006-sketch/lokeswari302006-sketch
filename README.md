@@ -1,12 +1,11 @@
-
-<div align="center">
+ <div align="center">
 
 <!-- GALAXY HEADER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:020617,30:172554,65:312E81,100:581C87&height=230&section=header&text=LOKESWARI&fontSize=65&fontColor=EDE9FE&animation=fadeIn&fontAlignY=38&desc=Exploring%20the%20Universe%20of%20Technology&descAlignY=60&descSize=17" />
 
 # 🌌 Hello, World! I'm Lokeswari
 
-### ✨ AIML Undergraduate | Java | SQL | DSA
+### ✨ AIML Undergraduate | Java | Python | SQL | DSA | AI
 
 *Somewhere between curiosity and code, I'm building my own universe.*
 
@@ -23,9 +22,10 @@
 ## 🚀 About My Universe
 
 - 🎓 B.Tech undergraduate in Artificial Intelligence & Machine Learning.
-- 💻 Interested in programming and problem-solving.
-- 🌱 Exploring the world of software development.
-- 🧩 Strengthening my technical foundations one step at a time.
+- 💻 Exploring programming through Java and Python.
+- 🧠 Interested in Artificial Intelligence and its real-world applications.
+- 🗄️ Learning SQL and database management.
+- 🧩 Practicing Data Structures & Algorithms.
 - ✨ Believer in consistency, curiosity, and continuous learning.
 
 ---
@@ -34,12 +34,17 @@
 
 <div align="center">
 
-### 💻 Programming & Databases
+### 💻 Programming Languages
 
-<img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" />
+<img src="https://skillicons.dev/icons?i=java,python&theme=dark" />
 
-### 🧠 Problem Solving
+### 🗄️ Database
 
+<img src="https://skillicons.dev/icons?i=mysql&theme=dark" />
+
+### 🧠 AI & Problem Solving
+
+<img src="https://img.shields.io/badge/Artificial%20Intelligence-312E81?style=for-the-badge&logo=probot&logoColor=C4B5FD" />
 <img src="https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-312E81?style=for-the-badge&logo=leetcode&logoColor=C4B5FD" />
 
 ### 🛠️ Tools & Version Control
@@ -53,7 +58,9 @@
 ## 🌠 Current Mission
 
 - ☕ Strengthening Java fundamentals.
-- 🧠 Practicing Data Structures & Algorithms.
+- 🐍 Exploring Python programming.
+- 🧠 Building foundations in Artificial Intelligence and Machine Learning.
+- 🧩 Practicing Data Structures & Algorithms.
 - 🗄️ Exploring SQL and database concepts.
 - 🔧 Improving Git and GitHub workflows.
 
